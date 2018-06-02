@@ -5,7 +5,7 @@ library(leaflet)
 library(rgdal)
 library(leaflet.minicharts)
 library(DT)
-library("shinythemes")
+library(shinythemes)
 library(RColorBrewer)
 
 Regiao<-c('S','SE','CO','NE','N','BR_T')
